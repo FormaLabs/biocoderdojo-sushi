@@ -82,3 +82,8 @@ Why not post your successes or epic failures to Twitter and mention *@biocoderdo
 
 Find us at http://formalabs.org and keep up with our plans to launch BioCoderDojo
 at Forma Labs, Ireland's first community lab, this Autumn!
+
+This document, written by Cathal Garvey of FormaLabs.org, is released under the
+Creative Commons Attribution, Share-alike license. You can copy and share it with
+friends as long as you use the same license (share it forward!). Please share the
+science and have fun with friends!
